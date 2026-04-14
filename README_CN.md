@@ -248,7 +248,7 @@ python inference.py \
 感谢各原始模型作者和开源社区的贡献，使这些工作能够在统一框架中被复现、比较和扩展。
 
 本项目由 Prof. Shuang Song 与 Kangneng Zhou 组织推进。  
-特别感谢 Haoyu Yuan、Dian Song、Jingdan Zhang、Yihang Xu 和 Sibo Zhao 在实现、实验和支持工作中的帮助。
+特别感谢 [SSL4MIS](https://github.com/HiLab-git/SSL4MIS)。
 
 ## 联系方式
 
