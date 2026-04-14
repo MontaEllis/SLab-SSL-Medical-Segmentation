@@ -1,0 +1,3 @@
+schedulers:
+  scheduler_type: poly_lr
+  power: 0.9

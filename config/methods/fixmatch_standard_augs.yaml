@@ -1,0 +1,9 @@
+method_group:
+  method_name: fixmatch_standard_augs
+  train_transform: weak_strong
+  consistency: 0.1
+  consistency_rampup: 200.0
+  confidence_threshold: 0.8
+ema_group:
+  ema: true
+  ema_decay: 0.99

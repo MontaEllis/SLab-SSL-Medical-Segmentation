@@ -1,0 +1,7 @@
+schedulers:
+  scheduler_type: step_lr
+  warmup: False
+  warmup_epoch: 20
+
+  sche_step_size: 1000
+  sche_gamma: 0.98

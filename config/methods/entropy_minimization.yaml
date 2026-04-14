@@ -1,0 +1,5 @@
+method_group:
+  method_name: entropy_minimization
+  train_transform: random
+  consistency: 0.1
+  consistency_rampup: 200.0

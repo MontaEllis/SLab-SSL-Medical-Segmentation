@@ -1,0 +1,6 @@
+method_group:
+  method_name: cross_teaching_between_cnn_transformer
+  train_transform: random
+  consistency: 0.1
+  consistency_rampup: 200.0
+  secondary_model_name: swinunet_2d

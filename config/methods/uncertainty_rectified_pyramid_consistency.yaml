@@ -1,0 +1,5 @@
+method_group:
+  method_name: uncertainty_rectified_pyramid_consistency
+  train_transform: random
+  consistency: 0.1
+  consistency_rampup: 200.0

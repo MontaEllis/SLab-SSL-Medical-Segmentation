@@ -1,0 +1,6 @@
+method_group:
+  method_name: adversarial_network
+  train_transform: random
+  consistency: 0.1
+  consistency_rampup: 200.0
+  discriminator_lr: 0.0001

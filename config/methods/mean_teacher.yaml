@@ -1,0 +1,9 @@
+method_group:
+  method_name: mean_teacher
+  train_transform: random
+  consistency: 0.1
+  consistency_rampup: 200.0
+  consistency_start: 1000
+ema_group:
+  ema: true
+  ema_decay: 0.99

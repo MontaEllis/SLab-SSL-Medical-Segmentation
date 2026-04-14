@@ -1,0 +1,9 @@
+method_group:
+  method_name: interpolation_consistency_training
+  train_transform: random
+  consistency: 0.1
+  consistency_rampup: 200.0
+  ict_alpha: 0.2
+ema_group:
+  ema: true
+  ema_decay: 0.99

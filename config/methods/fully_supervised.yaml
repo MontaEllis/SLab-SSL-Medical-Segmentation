@@ -1,0 +1,5 @@
+method_group:
+  method_name: fully_supervised
+  train_transform: random
+  consistency: 0.0
+  consistency_rampup: 0.0

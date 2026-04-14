@@ -1,0 +1,5 @@
+method_group:
+  method_name: regularized_dropout
+  train_transform: random
+  consistency: 4.0
+  consistency_rampup: 200.0

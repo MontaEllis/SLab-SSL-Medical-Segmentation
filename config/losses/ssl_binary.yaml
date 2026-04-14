@@ -1,0 +1,4 @@
+loss_group:
+  loss_type: ssl_binary
+  supervised_ce_weight: 0.5
+  supervised_dice_weight: 0.5
